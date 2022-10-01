@@ -1,0 +1,32 @@
+#wrapper { background-color: #FEFAEB;
+      width: 80%;
+            margin: auto;
+            margin-left: auto;
+            margin-right: auto;
+}
+body { background-color: #FCEBB6; 
+       color: #221811;
+       font-family: Arial, sans-serif; 
+      }
+ h1 { background-color: #D2B48C; 
+     color: #8C3826; 
+	 line-height: 200%;
+	 font-family:arial, sans-serif;
+	 text-align: center; }
+h2 { color: #8C3826; 
+	 font-family: Georgia, "Times New Roman", serif;
+	 text-align: left;  }
+nav { font-weight: bold;
+      font-size: 1.25em;
+	  word-spacing: 1em;
+     text-align: center; }
+ul { font-weight: bold; }
+footer { background-color: #D2B48C ;
+      color: #040200;
+         font-size: .65em;
+         font-style: italic; 
+      text-align: center;}
+.company { font-weight: bold;
+           font-family: Georgia, "Times New Roman", serif;
+           font-size: 1.25em; }
+           
